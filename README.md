@@ -1,5 +1,5 @@
 # Standard-Linux-Bootloader
-This is a Linux Bootloader, edit as you see fit to use with your System (Pointers: Line 41 Message)
+This is a Linux Bootloader, edit as you see fit to use with your System (Pointers: Line 44 Message)
 
 Copy and paste from line 6 to your text editor of choice.
 
