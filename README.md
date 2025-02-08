@@ -1,7 +1,7 @@
 # Standard-Linux-Bootloader
 This is a Linux Bootloader, edit as you see fit to use with your System (Pointers: Line 44 Message)
 
-Copy and paste from line 6 to your text editor of choice.
+Copy and paste from line 6 to your text editor of choice call it "bootloader.bin" to make life simple :)
 
 [BITS 16]            ; Tell assembler we're using 16-bit mode
 [ORG 0x7C00]        ; Bootloader loads at 0x7C00
